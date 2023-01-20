@@ -1,6 +1,6 @@
 
 ### 안녕하세요. 또뇽이의 깃허브입니다. 👋
-##### <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>Blog - https://lsunyoung.tistory.com/
+##### <a href="https://lsunyoung.tistory.com/)" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-FF4785?style=plastic&logo=tistory&logoColor=000000"/></a>Blog - https://lsunyoung.tistory.com/
 ##### Notion - https://www.notion.so/IOS-45a46b0a87ae423b912e95cfd0412c85
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsunyoung&show_icons=true&theme=radical)

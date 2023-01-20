@@ -3,6 +3,7 @@
 ##### <a href="https://lsunyoung.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FFE5F1?style=flat&logo=tistory&logoColor=ADA2FF"/></a> <a href="https://www.notion.so/IOS-45a46b0a87ae423b912e95cfd0412c85" target="_blank"><img src="https://img.shields.io/badge/notion-FFE5F1?style=flat&logo=notion&logoColor=ADA2FF"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsunyoung&show_icons=true&theme=radical)
+![lsunyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsunyoung&show_icons=true&theme=dracula)
 #
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flsunyoung&count_bg=%23FFEDFB&title_bg=%FFE5F1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--

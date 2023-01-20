@@ -1,6 +1,7 @@
 
 ### 안녕하세요. 또뇽이의 깃허브입니다. 👋
 ##### <a href="https://lsunyoung.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FFE5F1?style=flat&logo=tistory&logoColor=ADA2FF"/></a> <a href="https://www.notion.so/IOS-45a46b0a87ae423b912e95cfd0412c85" target="_blank"><img src="https://img.shields.io/badge/notion-FFE5F1?style=flat&logo=notion&logoColor=ADA2FF"/></a>
+##### Email - zhd8541@outlook.com
 
 ![lsunyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsunyoung&show_icons=true&theme=dracula)
 #
